@@ -12,7 +12,7 @@
 
 ## httpapi adapter for ioBroker
 
-Echtzeitaktienpreise
+Web-API ioBroker Adapter zum lesen von Webschnittstellen zu ioBroker Objekten
 
 ## Developer manual
 This section is intended for the developer. It can be deleted later.
