@@ -43,28 +43,28 @@
 				"zh-cn": "首次出版"
 			}
 		},
-		"title": "Yahoo Aktien Ticker",
+		"title": "Universal HTTP WebAPI",
 		"titleLang": {
-			"en": "Yahoo Aktien Ticker",
+			"en": "Universal HTTP WebAPI",
 			"de": "Yahoo Aktienticker",
 			"ru": "Yahoo Актиен Тикер",
-			"pt": "Yahoo Aktien Ticker",
-			"nl": "Yahoo Aktien Ticker",
+			"pt": "Universal HTTP WebAPI",
+			"nl": "Universal HTTP WebAPI",
 			"fr": "Yahoo Action Ticker",
 			"it": "Ticker di Yahoo Aktien",
 			"es": "Ticker de Yahoo Aktien",
 			"pl": "Aktien Ticker Yahoo",
-			"uk": "Yahoo Aktien Ticker",
+			"uk": "Universal HTTP WebAPI",
 			"zh-cn": "雅虎股票行情"
 		},
 		"desc": {
-			"en": "Echtzeitaktienpreise",
-			"de": "Echtzeitaktienpreise",
-			"ru": "Echtzeitaktienpreise",
-			"pt": "Echtzeitaktienpreise",
-			"nl": "Echtzeitaktienpreise",
-			"fr": "Prix ​​réel",
-			"it": "Prezzo effettivo",
+			"en": "Universal HTTP WebAPI",
+			"de": "Universelle HTTP WebAPI ",
+			"ru": "Универсальный HTTP WebAPI",
+			"pt": "Universal HTTP WebAPI",
+			"nl": "Universal HTTP WebAPI",
+			"fr": "Universal HTTP WebAPI",
+			"it": "Universal HTTP WebAPI",
 			"es": "Premio Echtzeitaktienpreise",
 			"pl": "Echtzeitaktienpreise",
 			"uk": "Echtzeitaktienpreise",
@@ -74,9 +74,9 @@
 			"RobinRS <robinschleser@web.de>"
 		],
 		"keywords": [
-			"stock",
-			"aktien",
-			"ticker"
+			"http",
+			"rest",
+			"api"
 		],
 		"license": "MIT",
 		"platform": "Javascript/Node.js",
