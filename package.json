@@ -1,6 +1,6 @@
 {
   "name": "iobroker.httpapi",
-  "version": "0.0.6",
+  "version": "0.1.0-alpha.0",
   "description": "Echtzeitaktienpreise",
   "author": {
     "name": "RobinRS",
