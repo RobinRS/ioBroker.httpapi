@@ -14,9 +14,9 @@
   "homepage": "https://github.com/RobinRS/ioBroker.httpapi",
   "license": "MIT",
   "keywords": [
-    "stock",
-    "aktien",
-    "ticker"
+    "http",
+    "rest",
+    "api"
   ],
   "repository": {
     "type": "git",
